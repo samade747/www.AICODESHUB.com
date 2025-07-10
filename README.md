@@ -1,8 +1,8 @@
 # 🚀 AICODESHUB - AI Automation Agency  
-![Project Logo](https://github.com/samade747/www.AICODESHUB.com/blob/main/ainewlogo.png)
-
 
 A modern, responsive website for aicodeshub, a global AI automation agency specializing in custom chatbots and business automation solutions. Built with Vue 3, TypeScript, and Tailwind CSS.  
+
+![Project Logo](https://github.com/samade747/www.AICODESHUB.com/blob/main/ainewlogo.png)
 
 
 
