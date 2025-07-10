@@ -278,8 +278,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Email**: AICODESHUB@GMAIL.COM   
-- **Phone**: +92 03328222026
-- **Website**: SAMAD.E747@GMAIL.COM
+- **Phone**: +923328222026
+- **Website**: AICODESHUB@GMAIL.COM
 
 ## 🙏 Acknowledgments
 
@@ -291,4 +291,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by AICODESHUB TEAM**
+**Built with ❤️ by AICODESHUB TEAM(maryam faizan & abdulsamad)**
